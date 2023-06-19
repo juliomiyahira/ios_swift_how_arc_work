@@ -3,8 +3,8 @@
 </h1>
 
 ---
-<image src="" />
-<image src="" />
+<image src="https://github.com/juliomiyahira/ios_swift_how_arc_work/blob/main/images/screen_one.png" />
+<image src="https://github.com/juliomiyahira/ios_swift_how_arc_work/blob/main/images/screen_two.png" />
 
 <div align="center">
   <br/>
